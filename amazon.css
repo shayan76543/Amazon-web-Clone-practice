@@ -1,0 +1,35 @@
+/* navbaar styling */
+body{
+    margin:0px;
+    padding:0px;
+}
+div{
+
+    background-color:black;
+    width:1050px;
+    height:50px;
+    /* align-items: center; */
+    
+ }
+a{
+    margin-right :25px; 
+    color:white;
+    margin-right:137px;
+    text-align:center;
+    text-decoration:none ;
+
+} 
+#amazon{
+    color:rgb(241, 159, 6);
+    margin-top:10px;
+}
+button{
+    background-color:orange;
+    color:white;
+    font-weight:bold;
+    border-radius: 3px;
+}
+input{
+    border-radius:5px;
+    width: auto;
+}
